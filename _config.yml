@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: AIM Cyber Blog # the main title.
+title: AIM Cyber Blog # the main title
 
 tagline: Write ups & CTFs # it will display as the subtitle
 
